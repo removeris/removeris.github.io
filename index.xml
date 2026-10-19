@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:50:03 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:07:09 +0300</lastBuildDate>
     <atom:link href="https://removeris.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://removeris.github.io/about/</link>
+      <pubDate>Mon, 19 Oct 2026 23:07:09 +0300</pubDate>
+      <guid>https://removeris.github.io/about/</guid>
+      <description>&lt;p&gt;Hi, site was made with Hugo.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Second Post</title>
       <link>https://removeris.github.io/posts/second-post/</link>
